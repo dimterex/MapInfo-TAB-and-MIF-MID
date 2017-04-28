@@ -1,0 +1,16 @@
+D:\Google Диск\Учеба\Теоретическая геоинформатика\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Google Диск\Учеба\Теоретическая геоинформатика\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Google Диск\Учеба\Теоретическая геоинформатика\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Google Диск\Учеба\Теоретическая геоинформатика\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Google Диск\Учеба\Теоретическая геоинформатика\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Map.resources
+D:\Google Диск\Учеба\Теоретическая геоинформатика\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Google Диск\Учеба\Теоретическая геоинформатика\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Google Диск\Учеба\Теоретическая геоинформатика\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Google Диск\Учеба\Теоретическая геоинформатика\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Google Диск\Учеба\Теоретическая геоинформатика\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\UseR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\UseR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\UseR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\UseR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\MapInfo-TAB-and-MIF-MID\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\UseR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\MapInfo-TAB-and-MIF-MID\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\UseR\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\MapInfo-TAB-and-MIF-MID\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
